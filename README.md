@@ -1,1 +1,1 @@
-# Automated-Diabetic-foot-ulcer-detection
+
