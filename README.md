@@ -122,6 +122,7 @@ Assessed performance with accuracy, precision, recall, and F1-score metrics.
 Enhanced model interpretability with Grad-CAM visualizations to highlight key decision areas. 
 
 IMPLEMENTATION:
+
 This project focuses on building a deep learning-based system to detect and classify Diabetic Foot
 Ulcers (DFUs) using medical images. The implementation process includes several practical steps:
 1. Data Collection and Preparation:
@@ -169,17 +170,20 @@ diagnosis are heavily dependent on physicians' expertise and physical examinatio
 subject to human error, delay, and variability. Having sensed the acute need for a faster, more
 accurate, and more reliable diagnostic system, our project harnessed the capability of deep learning
 to automate the detection and classification of DFUs.
+
 With extensive experimentation and research, we trained and tested various deep learning models
 like EfficientNet, VGG16, ResNet50, InceptionV3, and a Hybrid model. Out of these, VGG16 and
 the Hybrid model performed the best, with a maximum of 97% accuracy. What is even more crucial
 is that we implemented Grad-CAM visualizations such that the system does not operate like a
 "black box" but rather gives transparent, understandable output that physicians can rely upon.
+
 This project is a major milestone towards closing the gap between AI and medicine, providing a
 practical and scalable solution that can assist clinicians in making rapid and accurate decisions. Yet,
 as with any technology, there is always scope for improvement. Increasing the dataset, further
 fine-tuning the models, and implementing the system in real-world clinical environments will make
 it more effective and impactful. The long-term objective is to provide early DFU detection to all,
 but particularly in rural and disadvantaged areas where specialist services are scarce.
+
 In the long term, incorporating this technology into mobile devices or wearable sensors may
 transform the management of diabetes, enabling patients to remotely check their foot condition and
 receive prompt medical attention. Through the application of AI, we are not merely creating a
