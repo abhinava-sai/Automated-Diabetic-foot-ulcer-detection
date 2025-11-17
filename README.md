@@ -173,7 +173,7 @@ to automate the detection and classification of DFUs.
 
 With extensive experimentation and research, we trained and tested various deep learning models
 like EfficientNet, VGG16, ResNet50, InceptionV3, and a Hybrid model. Out of these, VGG16 and
-the Hybrid model performed the best, with a maximum of 97% accuracy. What is even more crucial
+the Hybrid model performed the best, with a maximum of 90% accuracy. What is even more crucial
 is that we implemented Grad-CAM visualizations such that the system does not operate like a
 "black box" but rather gives transparent, understandable output that physicians can rely upon.
 
